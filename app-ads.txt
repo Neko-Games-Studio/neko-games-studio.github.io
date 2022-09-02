@@ -1643,3 +1643,6 @@ pubmatic.com,160080,RESELLER,5d62403b186f2ace
 
 #Facebook Ownership Confirmation - [Crazy Cleaner]
 facebook.com, 401970325365807, RESELLER, с3e20eee3f780d68
+
+#Facebook Ownership Confirmation - [Watercolor Art]
+facebook.com, 1238657540311272, RESELLER, с3e20eee3f780d68
